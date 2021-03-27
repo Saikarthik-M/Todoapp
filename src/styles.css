@@ -1,0 +1,11 @@
+.place::placeholder {
+  color: white !important;
+}
+
+body,
+html {
+  height: 100%;
+}
+body {
+  background-color: #6a1b4d !important;
+}
